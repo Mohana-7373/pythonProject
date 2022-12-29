@@ -1,0 +1,5 @@
+s.no, name, id ,marks
+1,yamani,7,20
+2,prathibha,6,20
+3,harika,5,
+4,haripriya,4,20
